@@ -68,7 +68,7 @@ projects-url: https://lekham.wixsite.com/blog/tech
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-about-url: https://lekham.wixsite.com/blog/about-me-lekha-mirjankar
+about-url: https://lekham.wixsite.com/blog#about
 
 blog: true
 blog-url: https://lekham.wixsite.com/blog
