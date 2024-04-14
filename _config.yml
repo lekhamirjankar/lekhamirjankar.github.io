@@ -20,7 +20,8 @@ resume: false
 resume-external: false
 # resume-url: https://google.com/?q=my+resume
 
-url: https://lekhamirjankar.github.io
+url: https://lekhamirjankar.com/
+# https://lekhamirjankar.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -37,8 +38,8 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: https://www.linkedin.com/in/lekhamirjankar
-github: https://github.com/lekhamirjankar
+linkedin: lekhamirjankar
+github: lekhamirjankar
 # email: myemail@gmail.com
 
 authors:
